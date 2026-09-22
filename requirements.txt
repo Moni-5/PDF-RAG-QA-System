@@ -1,0 +1,43 @@
+# LangChain and LangGraph
+langgraph
+langchain
+langchain-community
+langchain-text-splitters
+langchain-mcp-adapters
+langgraph-cli[inmem]
+langgraph-checkpoint-sqlite
+langsmith
+
+# Google Gemini Integration
+langchain-google-genai
+google-generativeai
+
+# Other LLM Integrations
+langchain_cohere
+
+# Environment and Validation
+python-dotenv
+pydantic
+pydantic[email]
+
+# Data Science and Machine Learning
+numpy
+scikit-learn
+
+# Document Processing and Retrieval
+langchain-chroma
+chromadb
+faiss-cpu
+pypdf
+pymupdf
+
+# Utilities
+requests
+
+# Notebook and Development
+ipykernel
+notebook
+jupyter
+
+# Application Framework
+streamlit
