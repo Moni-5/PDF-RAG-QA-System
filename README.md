@@ -66,8 +66,6 @@ PDF_RAG_QA_SYSTEM/
 │       ├── Researchpaper1.pdf
 │       └── Researchpaper2.pdf
 │
-├── src/
-│   └── hons_assessment/
 │
 ├── academic_research_project.ipynb
 ├── pyproject.toml
